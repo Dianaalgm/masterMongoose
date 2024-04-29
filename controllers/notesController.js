@@ -1,4 +1,4 @@
-const Note = require (".models/note");
+const Note = require ("..models/note");
 
 //copy the CRUD code and paste here
 const fetchAllNotes = async(req,res)=>{
